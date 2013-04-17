@@ -1,0 +1,3 @@
+-warnposix
++posixlib
+-booltype BOOL
