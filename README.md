@@ -8,11 +8,13 @@ OK so check this out it is awesome
 
 try the following
 
+```
 $$ mk source /usr/bin
 $$ source:ls
 $$ source:pwd
 $$ source:cd ..
 $$ source:pwd
+```
 
 try it yourself: you can use any name in place of "source" and any dir
 
