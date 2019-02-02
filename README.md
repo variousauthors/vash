@@ -20,11 +20,15 @@ try it yourself: you can use any name in place of "source" and any dir
 
 Also try something crazy like:
 
+```
 cd ..; ls > goo; wc -c < goo; cd ..; ls | wc | wc | less &
+```
 
 Also try something like:
 
+```
 vi &
+```
 
 (the results are kind of weird (see known issues) but it works)
 
